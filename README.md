@@ -14,8 +14,6 @@ I'm a programmer with focus on back-end development, I am currently undergraduat
 - Algorithms using Portugol
 - English
 - Java
-- mySQL
-- Python
 
 <!---
 samuel-marinho/samuel-marinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
