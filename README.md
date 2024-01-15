@@ -6,14 +6,15 @@ I'm a programmer with focus on back-end development, I am currently undergraduat
 
 - 🌍  I'm based in João Pessoa, PB, Brazil
 - ✉️  You can contact me at [samuelmarinho64@gmail.com](mailto:samuelmarinho64@gmail.com)
-- ⚡  I'm Internet Systems student and 23 years old
-- 🌱  I’m currently learning Java, SQL and Algorithms
+- ⚡  I'm Internet Systems student and 24 years old
 
 ### Skills
 
-- Algorithms using Portugol
-- English
 - Java
+- Relational Database (SQL)
+- HTML/CSS
+- Spring
+- Agile Software Development 
 
 <!---
 samuel-marinho/samuel-marinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
