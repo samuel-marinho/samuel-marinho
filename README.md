@@ -2,7 +2,7 @@
 
 ## Backend Developer
 
-I'm a programmer with focus on back-end development, I am currently undergraduated in Internet Systems and I want to improve my skills on Java.
+I'm a programmer with focus on back-end development, I am currently undergraduated in Internet Systems and I want to improve my skills on Relational Database (SQL).
 
 - 🌍  I'm based in João Pessoa, PB, Brazil
 - ✉️  You can contact me at [samuelmarinho64@gmail.com](mailto:samuelmarinho64@gmail.com)
