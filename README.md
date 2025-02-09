@@ -10,12 +10,9 @@ I'm a programmer with focus on back-end development, I am currently undergraduat
 
 ### Skills
 
-- Java
 - Relational Database (SQL)
 - HTML/CSS
-- Spring
 - Agile Software Development
-- Python Flask
 
 <!---
 samuel-marinho/samuel-marinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
